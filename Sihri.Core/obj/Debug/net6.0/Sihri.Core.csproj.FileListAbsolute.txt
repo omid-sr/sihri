@@ -1,0 +1,12 @@
+C:\Users\osare\source\repos\Sihri\Sihri.Core\bin\Debug\net6.0\Sihri.Core.deps.json
+C:\Users\osare\source\repos\Sihri\Sihri.Core\bin\Debug\net6.0\Sihri.Core.dll
+C:\Users\osare\source\repos\Sihri\Sihri.Core\bin\Debug\net6.0\Sihri.Core.pdb
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.csproj.AssemblyReference.cache
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.AssemblyInfoInputs.cache
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.AssemblyInfo.cs
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.csproj.CoreCompileInputs.cache
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.dll
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\refint\Sihri.Core.dll
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\Sihri.Core.pdb
+C:\Users\osare\source\repos\Sihri\Sihri.Core\obj\Debug\net6.0\ref\Sihri.Core.dll

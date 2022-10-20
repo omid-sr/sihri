@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Flight\Data\FlightDbContext.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Visa\Domain\AppliedVisa.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Visa\Data\EntityConfigurations\UserConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Flight\Data\EntityConfigurations\UserConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Flight\Domain\User.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Flight\Domain\ReservedFlights.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Visa\Migrations\20221020124450_Sec.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Omid\source\repos\Sihri\Sihri.Flight\Migrations\20221020124557_Sec.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Git Repository - Sihri</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

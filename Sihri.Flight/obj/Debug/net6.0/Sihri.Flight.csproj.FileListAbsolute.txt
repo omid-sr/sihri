@@ -1,0 +1,17 @@
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.csproj.AssemblyReference.cache
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.AssemblyInfoInputs.cache
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.AssemblyInfo.cs
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.csproj.CoreCompileInputs.cache
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Flight.deps.json
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Flight.runtimeconfig.json
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Flight.dll
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Flight.pdb
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Infrastructure.dll
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\bin\Debug\net6.0\Sihri.Infrastructure.pdb
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.csproj.CopyComplete
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.dll
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\refint\Sihri.Flight.dll
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.pdb
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\Sihri.Flight.genruntimeconfig.cache
+C:\Users\Omid\source\repos\Sihri\Sihri.Flight\obj\Debug\net6.0\ref\Sihri.Flight.dll
