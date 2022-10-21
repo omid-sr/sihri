@@ -28,4 +28,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.InfraStructureStartupConfigure();
+app.VisaStartupConfigure();
+app.FlightStartupConfigure();
+
 app.Run();

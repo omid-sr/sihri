@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8wEQZ8NcerikRaC58lSQgc9J+yNixtnfMTnH92hWM1b7uL9qs6LDxpiAohaTnYRhmsUsw1jiP5hcfi/VDp7eg==",
+  "dgSpecHash": "yEQd2mS0FneHx7Yl1mhxHcdebsFMSPv3ZEFa+UrxRpHZ+6IV8XjyFpJmmJ/TlIRs38Ebx7s3HVGuWSOu6Lr7rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\Sihri.Web.csproj",
+  "projectFilePath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\Sihri.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omid\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Omid\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

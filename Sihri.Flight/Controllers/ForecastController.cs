@@ -7,24 +7,24 @@ namespace Sihri.Flight.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class ForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<ForecastController> _logger;
 
         private readonly ICacheService cacheService;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, ICacheService cacheService)
+        public ForecastController(ILogger<ForecastController> logger, ICacheService cacheService)
         {
             _logger = logger;
             this.cacheService = cacheService;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet(Name = "Forecast")]
         public IEnumerable<FlightWeatherForecast> Get()
         {
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\Sihri.Web.csproj": {}
+    "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\Sihri.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\Sihri.Flight.csproj": {
+    "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\Sihri.Flight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\Sihri.Flight.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\Sihri.Flight.csproj",
         "projectName": "Sihri.Flight",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\Sihri.Flight.csproj",
+        "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\Sihri.Flight.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
+              "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
+    "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj",
         "projectName": "Sihri.Infrastructure",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\Sihri.Visa.csproj": {
+    "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\Sihri.Visa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\Sihri.Visa.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\Sihri.Visa.csproj",
         "projectName": "Sihri.Visa",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\Sihri.Visa.csproj",
+        "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\Sihri.Visa.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
+              "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
               }
             }
           }
@@ -266,14 +266,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\Sihri.Web.csproj": {
+    "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\Sihri.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\Sihri.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\Sihri.Web.csproj",
         "projectName": "Sihri.Web",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\Sihri.Web.csproj",
+        "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\Sihri.Web.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Web\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -294,14 +294,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\Sihri.Flight.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Flight\\Sihri.Flight.csproj"
+              "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\Sihri.Flight.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Flight\\Sihri.Flight.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
+              "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Infrastructure\\Sihri.Infrastructure.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\Sihri.Visa.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Sihri\\Sihri.Visa\\Sihri.Visa.csproj"
+              "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\Sihri.Visa.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Documents\\GitHub\\sihri\\Sihri.Visa\\Sihri.Visa.csproj"
               }
             }
           }
